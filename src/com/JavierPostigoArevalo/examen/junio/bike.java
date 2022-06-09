@@ -1,7 +1,7 @@
 package com.JavierPostigoArevalo.examen.junio;
 
 
-class Bicycle {  
+class bike {  
   private int speed;
   private int gear;
     
@@ -37,7 +37,7 @@ public void speedUp(int increment){
 
 @Override
 public String toString() {
-	return "Bicycle [speed=" + speed + ", gear=" + gear + "]";
+	return "bike [speed=" + speed + ", gear=" + gear + "]";
 }
 public int getGear() {
 	return gear;
@@ -84,14 +84,14 @@ public void setGear(int gear) {
 //    
 //  public static void main (String[] args) {
 //    
-//      // creating an inatance of Bicycle
+//      // creating an inatance of bike
 //      // doing some operations
-//      Bicycle bicycle = new Bicycle();
+//      bike bicycle = new bike();
 //      bicycle.changeGear(2);
 //      bicycle.speedUp(3);
 //      bicycle.applyBrakes(1);
 //        
-//      System.out.println("Bicycle present state :");
+//      System.out.println("bike present state :");
 //      bicycle.printStates();
 //        
 //      // creating instance of the bike.
