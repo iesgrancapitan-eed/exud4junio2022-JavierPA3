@@ -20,15 +20,6 @@ public void setSpeed(int speed) {
 }
 
 
-public int getGear() {
-	return gear;
-}
-
-
-public void setGear(int gear) {
-	this.gear = gear;
-}
-
 
 public void speedUp(int increment){
       speed = speed + increment;
@@ -48,7 +39,16 @@ public void speedUp(int increment){
 public String toString() {
 	return "Bicycle [speed=" + speed + ", gear=" + gear + "]";
 }
-  
+public int getGear() {
+	return gear;
+}
+
+
+public void setGear(int gear) {
+	this.gear = gear;
+}
+
+
 }
 
 //class Bike implements Vehicle {
