@@ -8,7 +8,7 @@ package com.JavierPostigoArevalo.examen.junio;
 interface vehicle {
 
 	/**
-	 * @param int newGear
+	 * @param newGear
 	*/
 	void changeGear(int newGear);
 	/**
@@ -16,26 +16,24 @@ interface vehicle {
 	*/
 	int getSpeed();
 	/**
-	 * @param int speed
+	 * @param speed
 	*/
 	
 	void setSpeed(int speed);
 	/**
-	 * @param int increment
+	 * @param increment
 	*/
 	void speedUp(int increment);
 	/**
-	 * @param int decrement
+	 * @param decrement
 	*/
 	void applyBrakes(int decrement);
 	
 	void printStates();
-	/**
-	 *
-	*/
+
 	int getGear();
 	/**
-	 * @param int gear
+	 * @param gear
 	 * 
 	*/
 	void setGear(int gear);
