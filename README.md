@@ -60,6 +60,14 @@
 
 23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
 
+**REPOSITORIO**
+[https://github.com/iesgrancapitan-eed/exud4junio2022-JavierPA3](https://github.com/iesgrancapitan-eed/exud4junio2022-JavierPA3)
+
+**GITHUB PAGES**
+[https://iesgrancapitan-eed.github.io/exud4junio2022-JavierPA3/com/JavierPostigoArevalo/examen/junio/package-summary.html](https://iesgrancapitan-eed.github.io/exud4junio2022-JavierPA3/com/JavierPostigoArevalo/examen/junio/package-summary.html)
 ## BitBucket
 
 24. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url para que al menos yo pueda verla (mlmagarin@iesgrancapitan.org). El mismo repositorio ha de estar en ambos servidores 
+
+**BITBUCKET**
+[https://bitbucket.org/javierpostigoarevalo/examenjunio/src/main/](https://bitbucket.org/javierpostigoarevalo/examenjunio/src/main/)
